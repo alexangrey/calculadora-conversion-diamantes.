@@ -3,7 +3,8 @@
 ## Integrantes
 - Christopher Villagomez
 - Joseph Collaguazo
-- 
+- Andrew Chávez
+-
 
 ## Descripción
 Calculadora "Gamer Wallet" Proyecto que convierte dólares en diamantes/gemas.
