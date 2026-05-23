@@ -2,11 +2,11 @@
 
 ## Integrantes
 - Christopher Villagomez
-- 
+- Joseph Collaguazo
 - 
 
 ## Descripción
-Proyecto que convierte dólares en diamantes/gemas.
+Calculadora "Gamer Wallet" Proyecto que convierte dólares en diamantes/gemas.
 
 1 dólar = 100 gemas.
 
